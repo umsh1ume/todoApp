@@ -8,7 +8,7 @@ A Todo MEAN App - MongoDB, Expressjs, Angularjs and Nodejs
 * Download/clone the repo
 * Run `npm install`
 * Download angular libs in client folder if not downloaded
-* Run `gulp` and navigate to `http://localhost:3000` to view the app
+* Run ''node app.js' in server folder  and navigate to `http://localhost:3000` to view the app
 
 ### Tutorial 
 
